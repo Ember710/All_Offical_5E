@@ -5,9 +5,9 @@
 		<description>The content from all offical sorces.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.2.5">
-			<file name="Offical Only.index" url="https://github.com/Ember710/All_Offical_5E.git/all offical.index" />
+			<file name="Offical Only.index" url="https://github.com/Ember710/All_Offical_5E/all offical.index" />
 		</update>
 	</info>
 	<files>
-		<obsolete name="Offical Only.xml" url="https://github.com/Ember710/All_Offical_5E.git/offical only.xml" />
+		<obsolete name="Offical Only.xml" url="https://github.com/Ember710/All_Offical_5E/offical only.xml" />
 </index>
